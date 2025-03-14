@@ -17,3 +17,4 @@ override.tf.json
 
 # Optionally, ignore tfvars files if they contain sensitive values
 terraform.tfvars
+.vscode/
