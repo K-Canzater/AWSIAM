@@ -1,4 +1,4 @@
-module "iam_resources" {
+module "IAM" {
   source          = "./modules/iam"        # Path to your IAM module
   iam_group_name  = "engineersgroupk"         # Pass the values directly to the module
   user_name       = "khayuser"          # Pass the values directly to the module
